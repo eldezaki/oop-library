@@ -1,7 +1,7 @@
 package id.ac.polinema.library;
 
 /**
- * Bagian 2: penulis buku.
+ * Bagian 2: penulis buku
  *
  * Jangan ubah nama kelas, nama method, atau signature-nya. Autograder
  * memanggilnya persis seperti yang tertulis di sini.
